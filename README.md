@@ -1,4 +1,7 @@
 # RocketNoodles
+
+<img src="https://serpentine.ai/wp-content/uploads/2019/02/Final-design-serpentine.png" width="400px">
+
 RocketNoodles is the rocket league bot designed and built by [Serpentine](serpentinai.nl). 
 
 ## Quick Start
